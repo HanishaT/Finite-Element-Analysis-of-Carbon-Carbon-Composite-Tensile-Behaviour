@@ -33,6 +33,28 @@ Displacement distribution
 Stress distribution
 Software
 MATLAB Online
+...
+Outputs generated:
+
+Displacement distribution
+Stress distribution
+
+Software
+MATLAB Online
+
+Author
+Hanisha Thanikatchalam
+
+## Mesh Convergence Study
+
+To evaluate the reliability of the finite element model, a mesh convergence study was carried out using 2, 4, 8, 16 and 32 elements.
+
+The stress and displacement predictions showed negligible changes with increasing mesh density, indicating that the numerical solution is stable and largely independent of the selected mesh size.
+
+This verification step provides additional confidence in the FEM results obtained for the carbon-carbon composite tensile specimen.
+
+Additional output:
+mesh_convergence.png
 
 Author
 Hanisha Thanikatchalam
